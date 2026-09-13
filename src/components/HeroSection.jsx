@@ -117,7 +117,7 @@ export default function HeroSection() {
                 loading="eager"
               />
               <div className="hero-image-badge">
-                <div className="hero-image-badge-name">The Hair Master</div>
+                <div className="hero-image-badge-name">Musheer Salmani</div>
                 <div className="hero-image-badge-role">✦ Master Stylist & Founder</div>
               </div>
             </div>
