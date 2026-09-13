@@ -131,14 +131,14 @@ export default function ServicesSection() {
             </div>
           </div>
           <div className="services-feature-card glass-card">
-            <img src="/images/media__1786953577129.jpg" alt="Global hair colour and balayage" loading="lazy" />
+            <img src="/images/balayage_hair_colour.png" alt="Global hair colour and balayage" loading="lazy" />
             <div className="services-feature-overlay">
               <div className="services-feature-label">Colour Art</div>
               <div className="services-feature-title">Global Colour & Balayage</div>
             </div>
           </div>
           <div className="services-feature-card glass-card">
-            <img src="/images/media__1786953576905.jpg" alt="Luxury head massage and spa" loading="lazy" />
+            <img src="/images/hair_spa_massage.png" alt="Luxury head massage and spa" loading="lazy" />
             <div className="services-feature-overlay">
               <div className="services-feature-label">Wellness</div>
               <div className="services-feature-title">Hair Spa & Massage</div>
